@@ -23,7 +23,6 @@ I am slowly persuing a Bachelor's Degree in Computer Science at Utah Valley Univ
 [![Vue.js](https://img.shields.io/badge/Favorite%20Framework-Vue.js-42b983?style=for-the-badge&logo=vue.js)](https://v3.vuejs.org/)
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-0066B8?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Alacritty Terminal](https://img.shields.io/badge/Terminal-Alacritty-%23F46D01?style=for-the-badge&logo=alacritty)](https://github.com/alacritty/alacritty)
-[![Firefox](https://img.shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser)](https://www.mozilla.org/en-US/firefox/new/)
 [![Pop OS](https://img.shields.io/badge/Distro-Pop!__OS-48B9C7?style=for-the-badge&logo=pop!_os)](https://pop.system76.com/)
 
 [![Redoxeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=redoxeon&show_icons=true&bg_color=101222&title_color=5865f2&icon_color=f9004f&text_color=7d97f2&hide_border=true&border_radius=15&count_private=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
