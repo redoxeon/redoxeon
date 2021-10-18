@@ -7,7 +7,7 @@
 
 ### I'm Michael Harding! 
 
-I am slowly persuing a Master's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted). By day, I do fullstack web development. By night, I work at honing my rust skills.
+I am slowly persuing a Bachelor's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted). By day, I do fullstack web development. By night, I work at honing my rust skills.
 
 ### Socials
 
