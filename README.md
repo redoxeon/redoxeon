@@ -21,7 +21,6 @@ I am slowly persuing a Bachelor's Degree in Computer Science at Utah Valley Univ
 
 [![Rust-lang](https://img.shields.io/badge/Favorite%20Language-Rust-red?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-0066B8?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![Alacritty Terminal](https://img.shields.io/badge/Terminal-Alacritty-%23F46D01?style=for-the-badge&logo=alacritty)](https://github.com/alacritty/alacritty)
 [![Nushell Starship](https://img.shields.io/badge/Shell+Prompt-NuShell+Starship-f9004f?style=for-the-badge&logo=starship)](https://https://www.nushell.sh/)
 [![Pop OS](https://img.shields.io/badge/Distro-Pop!__OS-48B9C7?style=for-the-badge&logo=pop!_os)](https://pop.system76.com/)
 
