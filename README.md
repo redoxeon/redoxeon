@@ -7,7 +7,7 @@
 
 ### I'm Michael Harding! 
 
-I am slowly persuing a Bachelor's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted). By day, I do fullstack web development. By night, I work at honing my rust skills.
+I am slowly persuing a Bachelor's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted).
 
 ### Socials
 
@@ -20,7 +20,6 @@ I am slowly persuing a Bachelor's Degree in Computer Science at Utah Valley Univ
 ### Languages & Tools
 
 [![Rust-lang](https://img.shields.io/badge/Favorite%20Language-Rust-red?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-[![Vue.js](https://img.shields.io/badge/Favorite%20Framework-Vue.js-42b983?style=for-the-badge&logo=vue.js)](https://v3.vuejs.org/)
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-0066B8?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Alacritty Terminal](https://img.shields.io/badge/Terminal-Alacritty-%23F46D01?style=for-the-badge&logo=alacritty)](https://github.com/alacritty/alacritty)
 [![Nushell Starship](https://img.shields.io/badge/Shell+Prompt-NuShell+Starship-f9004f?style=for-the-badge&logo=starship)](https://https://www.nushell.sh/)
