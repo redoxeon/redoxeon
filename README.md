@@ -7,7 +7,7 @@
 
 ### I'm Michael Harding! 
 
-I am slowly persuing a Bachelor's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted). Currently working at a cool startup called [Bowtie](https://www.bowtie.works)!
+I am slowly pursuing a Bachelor's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted). Currently working at a cool startup called [Bowtie](https://www.bowtie.works)!
 
 Be sure to also check out my GitLab
 
