@@ -13,7 +13,6 @@ I am slowly pursuing a Bachelor's Degree in Computer Science at Utah Valley Univ
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-Redoxeon-%230A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/redoxeon)
 [![Discord](https://img.shields.io/badge/Discord-Redoxeon%231776-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/275303932610215937)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Harding-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-harding-redoxeon/)
 
 ### Languages & Tools
 
