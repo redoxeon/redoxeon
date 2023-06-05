@@ -9,8 +9,6 @@
 
 I am slowly pursuing a Bachelor's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted).
 
-[![Discord](https://img.shields.io/badge/Discord-Redoxeon%231776-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/275303932610215937)
-
 ### Languages & Tools
 
 [![Rust-lang](https://img.shields.io/badge/Favorite%20Language-Rust-red?style=for-the-badge&logo=rust&logoColor=e05d44)](https://www.rust-lang.org/)
