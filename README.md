@@ -7,7 +7,11 @@
 
 ### I'm Michael Harding! 
 
-I am slowly pursuing a Bachelor's Degree in Computer Science at Utah Valley University. My brain thinks in Rust now (I've been fully converted).
+I am (slowly) pursuing a Bachelor's Degree in Computer Science at Utah Valley University.
+
+I've been working professionally in rust for close to a year now, and I am doing my capstone project for my CS degree in Rust. I'm also interested in Zig, but I haven't had much time to learn it recently. I plan to make time for it soon.
+
+I love to learn and try new things! I've worked at several startups and can adapt to whatever needs to be done.
 
 ### Languages & Tools
 
